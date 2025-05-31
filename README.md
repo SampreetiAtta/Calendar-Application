@@ -1,4 +1,4 @@
-# Calendar Application: Project Documentation 
+# Text-Based Calendar Application: Project Documentation 
 
 ### Sampreeti Atta
 
