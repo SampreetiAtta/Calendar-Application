@@ -1,4 +1,4 @@
-"""Project: Calendar Application
+"""Project: Text-Based Calendar Application 
 Sampreeti Atta"""
 
 import json
